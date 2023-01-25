@@ -9,7 +9,7 @@ primes: "1000000"
 replicaCount: 1
 image:
   repository: ruby
-  tag: 2.3.3-alpine
+  tag: 3.2.0-alpine
   pullPolicy: Always
 resources:
   limits:
